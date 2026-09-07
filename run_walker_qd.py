@@ -7,6 +7,7 @@ Examples:
 """
 import argparse
 import os
+import math
 
 from roblet_evo.qd import MapElites, QDConfig
 
